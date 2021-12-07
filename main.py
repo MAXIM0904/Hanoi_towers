@@ -14,5 +14,3 @@ def move(count_disk_user, start=1, finish=3):
 
 count_disk_user = int(input("Введите количество дисков: "))
 move(count_disk_user)
-
-# зачёт!
